@@ -1,16 +1,24 @@
-# daily_quote_app
+# Daily Quote App
 
-A new Flutter project.
+A cross-platform mobile application built using Flutter and Dart that displays inspirational quotes with a clean and simple user interface.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Daily inspirational quotes
+- Clean and user-friendly interface
+- Cross-platform support
+- Lightweight application
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Android Studio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Purpose
+
+This project was developed to practice cross-platform mobile application development using Flutter while building a simple quote application.
+
+## Author
+
+Zabin Tasmin
